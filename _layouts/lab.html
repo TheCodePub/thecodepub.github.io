@@ -1,0 +1,23 @@
+---
+layout: clean
+---
+<div class="lab-container">
+
+  <div class="lab-head">
+    <div class="lab-head-inner">
+      <h1 class="lab-header">Cude Pub Lab</h1>
+      <h2 class="lab-title">{{ page.title }}</h2>
+      <p class="lab-description">{{ page.description }}</p>
+
+      <div class="lab-illustration">
+          {% include svg/bottle.svg %}
+
+      </div>
+    </div>
+  </div>
+
+  <div class="lab-content">
+    {{ content }}
+  </div>
+
+</div>
