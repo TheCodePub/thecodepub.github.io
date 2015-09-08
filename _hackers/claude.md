@@ -1,5 +1,5 @@
 ---
 fullname: Claudia Eisbrenner
 twitter: claude
-image: claude.jpg
+image: claude.jpeg
 ---
