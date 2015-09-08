@@ -1,5 +1,5 @@
 ---
 fullname: mellii
 twitter: 
-image: mellii.jpg
+image: mellii.png
 ---
