@@ -1,5 +1,5 @@
 ﻿---
 fullname: Kristina Flynn
 twitter: 
-image: kristina.jpg
+image: kristina.JPG
 ---
