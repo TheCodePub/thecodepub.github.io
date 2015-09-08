@@ -1,5 +1,5 @@
 ---
-fullname: Unn Swanström
-twitter: unnderbar
-image: unn.jpg
+fullname: Anna-Sofia Lejman
+twitter: 
+image: moi.jpg
 ---
