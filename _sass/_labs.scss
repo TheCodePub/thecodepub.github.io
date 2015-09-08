@@ -60,9 +60,11 @@ body {
   font-size: 1.1em; 
 }
 
-.hacker-twitter {
+.hacker-twitter, 
+.empty-row-spacer {
   display: block;
-  font-size: 0.9em; 
+  font-size: 0.9em;
+  height: 1.2em;  
 }
 
 .lab-list {
