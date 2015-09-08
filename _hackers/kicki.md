@@ -1,5 +1,5 @@
 ---
 fullname: Kicki Sarampasina
-twitter: kommer inte ihåg :(
+twitter: 
 image: kicki2.jpg
 ---
