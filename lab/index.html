@@ -14,7 +14,8 @@ description: Join these fellow Code Pub Hackers by following the guide at <a hre
         <span class="hacker-fullname">{{ hacker.fullname }}</span>
         {% if hacker.twitter %}
           <a href="https://twitter.com/{{ hacker.twitter }}" class="hacker-twitter">@{{ hacker.twitter }}</a>
-        {% else %}
+{% elseif hacker.url %}
+          <a href="{{ hacker.url }}" class="hacker-twitter">URL of {{ hacker.fullname }}</a>        {% else %}
           <span class="empty-row-spacer"></span>
         {% endif %}
       </li>
