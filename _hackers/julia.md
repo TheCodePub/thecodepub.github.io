@@ -1,5 +1,5 @@
 ---
 fullname: Julia Adamsson
 twitter: juleadam
-image: julia
+image: julia.jpg
 ---
