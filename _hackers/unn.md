@@ -1,5 +1,5 @@
 ---
 fullname: Unn Swanström
-twitter: undderbar
+twitter: unnderbar
 image: unn.jpg
 ---
