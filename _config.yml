@@ -12,5 +12,5 @@ github_username:  TheCodePub
 markdown: kramdown
 collections:
   hackers:
-    permalink: /hackers/:path/
+    permalink: /lab/:path/
     output: true
