@@ -1,5 +1,5 @@
 ---
 fullname: Liljana Pendovska
 twitter: 
-image: liljana.jpeg
+image: liljana.jpg
 ---
